@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+@media (max-width: 1000px) {
+}
+
+header h1 {
+  text-align: center;
+}
+
+header p {
+  float: left;
+  padding-left: 150px;
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.top {
+  background-color: grey;
+  background-size: cover;
+  padding: 140px 0 140px 0;
+  margin: 140px 0 0;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container p {
+  font-size: 20px;
+}
+
+.btn {
+  padding: 12px 24px;
+  display: inline-block;
+}
+
+.join {
+  color: white;
+  background-color: blue;
+}
+
+.btn-wrapper {
+  margin: 0 auto;
+  border-top: 2px solid;
+  opacity: 0.5;
+  padding-top: 15px;
+}
+
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 300px;
+  background-color: #f7f7f7;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.pelajaran {
+  float: left;
+  width: 30%;
+  padding-top: 30px;
+}
+
+.pelajaran .txt-contents p {
+  font-size: 20px;
+}
+
+.pelajaran .html {
+  background-color: blue;
+  color: white;
+  margin-right: 15px;
+  padding: 10px 0 10px 0;
+}
+
+.pelajaran .css {
+  background-color: blue;
+  color: white;
+  margin-right: 15px;
+  padding: 10px 0 10px 0;
+}
+
+.pelajaran .javascript {
+  background-color: blue;
+  color: white;
+  margin-right: 15px;
+  padding: 10px 0 10px 0;
+}
+
+.pelajaran .node {
+  background-color: blue;
+  color: white;
+  margin-right: 15px;
+  padding: 10px 0 10px 0;
+}
+
+.pelajaran .react {
+  background-color: blue;
+  color: white;
+  margin-right: 15px;
+  padding: 10px 0 10px 0;
+}
+
+footer {
+  border-top: 2px solid grey;
+}
+
+.footer-logo {
+  float: left;
+  padding-top: 130px;
+  padding-left: 25px;
+}
+
+.footer-list {
+  float: right;
+  padding: 10px;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
+.footer-list2 {
+  float: right;
+  padding: 10px;
+}
+
+.footer-list2 li {
+  padding-bottom: 20px;
+}
